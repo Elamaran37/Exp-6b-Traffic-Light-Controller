@@ -95,6 +95,8 @@ endmodule
 
 
 # Result
+The Verilog code for the Traffic Light Controller was designed and simulated successfully.
+The output verified correct traffic light operation.
 
 
 
