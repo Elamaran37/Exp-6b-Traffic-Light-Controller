@@ -15,8 +15,9 @@ Type the Verilog code for the Traffic Light Controler
 
 3. Observe the Output
 Observe the Traffic Signal output.
-# Block Diagram
 
+# Block Diagram
+<img width="1324" height="622" alt="image" src="https://github.com/user-attachments/assets/30f7dda7-edea-4f95-8c75-7207383ca65d" />
 
 # code
 ```
@@ -94,6 +95,7 @@ endmodule
 
 
 # Result
+
 
 
 
